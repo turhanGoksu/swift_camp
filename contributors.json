@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 171
+    "contributions": 182
   },
   {
     "login": "turhanGoksu",
@@ -63,29 +63,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 41
-  },
-  {
-    "login": "yuceel",
-    "id": 108794593,
-    "node_id": "U_kgDOBnwS4Q",
-    "avatar_url": "https://avatars.githubusercontent.com/u/108794593?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/yuceel",
-    "html_url": "https://github.com/yuceel",
-    "followers_url": "https://api.github.com/users/yuceel/followers",
-    "following_url": "https://api.github.com/users/yuceel/following{/other_user}",
-    "gists_url": "https://api.github.com/users/yuceel/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/yuceel/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/yuceel/subscriptions",
-    "organizations_url": "https://api.github.com/users/yuceel/orgs",
-    "repos_url": "https://api.github.com/users/yuceel/repos",
-    "events_url": "https://api.github.com/users/yuceel/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/yuceel/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 39
+    "contributions": 45
   },
   {
     "login": "melihalkbk",
@@ -107,7 +85,29 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 38
+    "contributions": 44
+  },
+  {
+    "login": "yuceel",
+    "id": 108794593,
+    "node_id": "U_kgDOBnwS4Q",
+    "avatar_url": "https://avatars.githubusercontent.com/u/108794593?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yuceel",
+    "html_url": "https://github.com/yuceel",
+    "followers_url": "https://api.github.com/users/yuceel/followers",
+    "following_url": "https://api.github.com/users/yuceel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yuceel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yuceel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yuceel/subscriptions",
+    "organizations_url": "https://api.github.com/users/yuceel/orgs",
+    "repos_url": "https://api.github.com/users/yuceel/repos",
+    "events_url": "https://api.github.com/users/yuceel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yuceel/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 43
   },
   {
     "login": "busragedikoglu",
@@ -151,7 +151,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 29
+    "contributions": 31
   },
   {
     "login": "alakkaya",
@@ -173,7 +173,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 28
+    "contributions": 29
   },
   {
     "login": "elifdodanli",
@@ -195,7 +195,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 17
+    "contributions": 21
   },
   {
     "login": "NurhayatYurtaslan",
@@ -217,7 +217,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 14
+    "contributions": 18
   },
   {
     "login": "AylinManav",
@@ -261,7 +261,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 8
+    "contributions": 9
   },
   {
     "login": "OnurArslan0",
